@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+  
+  website:
+    title: "Assistant "
+    navbar:
+      left:
+      - href: index.qmd
+          texte: Home
+      - about.qmd
+      - favori.qmd
+format: 
+  html:
+    theme: cosmo
+    css: style.css
+    toc:true
+    

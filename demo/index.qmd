@@ -1,0 +1,10 @@
+---
+title: "diop"
+---
+
+c'est une simple demo
+
+```{r}
+x<-2*3
+x
+```

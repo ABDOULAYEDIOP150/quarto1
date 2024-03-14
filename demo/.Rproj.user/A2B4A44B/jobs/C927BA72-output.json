@@ -1,0 +1,2 @@
+[2,"\n"]
+[1,"ERROR: YAMLException: bad indentation of a mapping entry (C:\\Users\\Abdoulaye Diop\\Desktop\\quarto\\demo\\_quarto.yml, 10:16)\n 9:       - href: index.qmd\n10:           texte: Home\n                  ~~\n11:       - about.qmd\n"]
